@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Temp\\Bin\\Debug\\Player"
   ],
-  "SelectedNode": "\\Packages",
+  "SelectedNode": "\\Assets\\Scripts\\Settings.cs",
   "PreviewInSolutionExplorer": false
 }
