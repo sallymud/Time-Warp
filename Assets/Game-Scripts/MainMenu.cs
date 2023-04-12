@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Game");
     }
-
+    //yes
     public void Settings()
     {
         SceneManager.LoadScene("SettingsMenu");
