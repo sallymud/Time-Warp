@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   sentences:
-  - text: 
+  - text: Hello world!
+    speaker: {fileID: 11400000, guid: 27119c5d09baef94ca9048facf1f8a08, type: 2}
+  - text: Hello Adam!!
     speaker: {fileID: 11400000, guid: 2601069203cff324ab9183a89c9ad8b1, type: 2}
   background: {fileID: 0}
   nextScene: {fileID: 0}
