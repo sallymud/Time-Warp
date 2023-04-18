@@ -65,6 +65,7 @@
     <Compile Include="Assets\Game-Scripts\StoryScene.cs" />
     <Compile Include="Assets\Game-Scripts\BottomBarController.cs" />
     <Compile Include="Assets\Game-Scripts\DoNotDestroy.cs" />
+    <Compile Include="Assets\Game-Scripts\BackgroundController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
