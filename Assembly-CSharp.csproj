@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Game-Scripts\VolumeManager.cs" />
+    <Compile Include="Assets\Game-Scripts\BackgroundController.cs" />
     <Compile Include="Assets\Game-Scripts\Speaker.cs" />
     <Compile Include="Assets\Game-Scripts\Settings.cs" />
     <Compile Include="Assets\Game-Scripts\MainMenu.cs" />
@@ -65,7 +66,6 @@
     <Compile Include="Assets\Game-Scripts\StoryScene.cs" />
     <Compile Include="Assets\Game-Scripts\BottomBarController.cs" />
     <Compile Include="Assets\Game-Scripts\DoNotDestroy.cs" />
-    <Compile Include="Assets\Game-Scripts\BackgroundController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
