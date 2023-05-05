@@ -22,5 +22,5 @@ MonoBehaviour:
       \u0438 \u0447\u0435\u043B\u043E\u0432\u0435\u0447\u0435\u0441\u043A\u043E\u0439
       \u0438\u0441\u0442\u043E\u0440\u0438\u0438."
     speaker: {fileID: 11400000, guid: 2601069203cff324ab9183a89c9ad8b1, type: 2}
-  background: {fileID: 21300000, guid: c8728bd6f9f84a1458558702e4312729, type: 3}
+  background: {fileID: 21300000, guid: 60b7515b0259e1f4d9cc58183d45981b, type: 3}
   nextScene: {fileID: 11400000, guid: 9ec8d3fe089aba242ac929a3b22a4f52, type: 2}

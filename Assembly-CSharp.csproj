@@ -65,6 +65,7 @@
     <Compile Include="Assets\Game-Scripts\GameController.cs" />
     <Compile Include="Assets\Game-Scripts\StoryScene.cs" />
     <Compile Include="Assets\Game-Scripts\BottomBarController.cs" />
+    <Compile Include="Assets\Game-Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Game-Scripts\DoNotDestroy.cs" />
   </ItemGroup>
   <ItemGroup>
